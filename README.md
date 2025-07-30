@@ -1,4 +1,4 @@
-# WatchFlow: A/B Testing & Funnel Optimization (SQL-Only Project)
+# WatchFlow: A/B Testing & Funnel Optimization 
 
 ##  Overview
 This project simulates a video streaming app and analyzes user behavior across a typical engagement funnel using only SQL. It includes funnel construction, drop-off analysis, and A/B testing for a new vertical-scroll layout.
