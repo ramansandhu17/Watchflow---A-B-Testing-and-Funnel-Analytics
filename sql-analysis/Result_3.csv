@@ -1,0 +1,3 @@
+group_type,visit_count,start_count,start_rate,complete_count,complete_rate,like_count,like_rate,share_count,share_rate
+control,317,270,85.17,214,67.51,114,35.96,56,17.67
+test,311,274,88.1,219,70.42,132,42.44,62,19.94
