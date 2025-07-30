@@ -13,7 +13,7 @@ This project simulates a video streaming app and analyzes user behavior across a
 - Synthetic data generated with 500 users, 1000 sessions
 - Columns: user_id, session_id, event_time, event_type, content_id, group
 
-## 📊 SQL Analyses
+## SQL Analyses
 | File | Description |
 |------|-------------|
 | `01_funnel_conversion.sql` | Calculate conversion rate at each funnel step |
@@ -22,7 +22,7 @@ This project simulates a video streaming app and analyzes user behavior across a
 | `04_segment_analysis.sql` | Funnel performance by user type |
 | `05_metrics_by_group_and_time.sql` | Optional: engagement trends over time |
 
-## 💼 Case Study
+## Case Study
 See [`case_study_summary.md`](case_study_summary.md) for STAR-format summary.
 
 ## Tools
